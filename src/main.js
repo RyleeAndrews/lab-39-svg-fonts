@@ -13,7 +13,6 @@ class Main extends React.Component {
     return(
       <div>
         <h2> This is google font </h2>
-        <p className="far"> this is npm font awesome </p>
         <h4> this is yarn font awesome <FontAwesomeIcon icon={faCoffee} /></h4>
       </div>
     );
